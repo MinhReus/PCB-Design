@@ -4,6 +4,11 @@
 
 ![image](https://github.com/user-attachments/assets/6d7eac98-008f-4611-afcd-8d3343dd4ce0)
 
+2:
+
+![image](https://github.com/user-attachments/assets/8a358917-c822-4957-b8ff-d66138143deb)
+
+
 PCB Layout:
 
 ![image](https://github.com/user-attachments/assets/fdfa6ba5-ee57-4573-bbfe-dd82e733608c)
