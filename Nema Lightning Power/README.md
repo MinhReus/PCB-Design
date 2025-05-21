@@ -1,4 +1,4 @@
-#NEMA SMARTLIGHTNING VERSION 3
+#NEMA SMARTLIGHTNING VERSION 3<br>
 1:<br>![NEMA_POWER](https://github.com/user-attachments/assets/8b9ee981-6714-47cf-b8d4-60b3d473fd6f)
 2:<br>![image](https://github.com/user-attachments/assets/8ccd9706-43e2-4bba-86b5-811ebb55eeb6)
 PCB Layout:<br>![image](https://github.com/user-attachments/assets/86dd6998-4e8c-4ff5-9aa8-5dfc3b097964)
